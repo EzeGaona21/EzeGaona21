@@ -21,7 +21,7 @@
 ---
 ## 🎓 Educación y Formación
 
-- 🧑‍🎓 **Tecnicatura en Programación** – *Instituto INCADÉ* (En curso)
+- 🧑‍🎓 **Tecnicatura en Programación** – *Instituto INCADE* (En curso)
 - 💻 **Cursos en Silicon Misiones**  
   - 📊 Ciencia de Datos con Inteligencia Artificial  
   - 🤖 Data & IA  
@@ -58,6 +58,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeans-%230072C6.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+
 
 ---
 
